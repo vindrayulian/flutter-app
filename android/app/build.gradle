@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.example.lumbungdata_appsid"
-    compileSdkVersion 34 // Ubah ke 34
+    compileSdkVersion 34
     ndkVersion = flutter.ndkVersion
 
     compileOptions {

@@ -34,7 +34,7 @@ class _HomePageState extends State<HomePage> {
         ),
       )
       ..loadRequest(
-          Uri.parse('https://siddev.lumbungdata.id/grendeng/login-admin-desa'));
+          Uri.parse('https://siddev.lumbungdata.id/web-view'));
   }
 
   @override
